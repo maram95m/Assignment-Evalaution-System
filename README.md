@@ -3,8 +3,7 @@
 https://github.com/maram95m/Project
 
 # Branches:
-main, test and over 
-- Note: the latest changes are comiited on over branch
+main
 # Install dependencies:
 pip install pytest 
 
@@ -43,7 +42,8 @@ The tests are organized as follows:
 # `tests/`
   
   - `login_page_test`: Contains test cases for the login functionality.
-  - 'evaluation_page_test': to test the employee evaultion & submition
+  - 'employee_evaluation_page_test': to test the employee evaultion & submition
+  - 'manager_evaluation_page_test': to test the manager evaultion & open/edit/close operation
   - 'history_page_test' : to check that all the checked checkboxes in the table are stored correctly in another page as history data
   - 'cross_browser_test' : verifies that the website works correctly across different web browsers.
   - 'user_roles_test' : to check the user validation as (login as employee or manager)
