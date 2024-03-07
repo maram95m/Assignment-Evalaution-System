@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('self', <FixtureRequest for <Function test_failed_login>>)",
+      "children" : [ {
+        "name" : "test_failed_login",
+        "uid" : "623be14920570ad4",
+        "parentUid" : "633fa6c71c3c49a8414676f90823630c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1707126989361,
+          "stop" : 1707126989361,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "633fa6c71c3c49a8414676f90823630c"
+    }, {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('self', <FixtureRequest for <Function test_successful_login>>)",
+      "children" : [ {
+        "name" : "test_successful_login",
+        "uid" : "c9f725b38c16194e",
+        "parentUid" : "776c5d2f91913a8312b8cef44f97572c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1707126989361,
+          "stop" : 1707126989361,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "776c5d2f91913a8312b8cef44f97572c"
+    }, {
+      "name" : "TypeError: TestLogin.test_login() missing 1 required positional argument: 'driver'",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "f7a5685449b6cc23",
+        "parentUid" : "7c3c44e903ee1cb3bff2f0119c4cf198",
+        "status" : "broken",
+        "time" : {
+          "start" : 1707126989373,
+          "stop" : 1707126989373,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7c3c44e903ee1cb3bff2f0119c4cf198"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

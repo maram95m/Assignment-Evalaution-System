@@ -1,0 +1,12 @@
+{
+    "users": {
+        "employee": {
+            "username": "test-employee4",
+            "password": "45622"
+        },
+        "manager": {
+            "username": "test-supervisor3",
+            "password": "45622"
+        }
+    }
+}

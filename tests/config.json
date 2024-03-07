@@ -1,0 +1,30 @@
+{ 
+    "login_url": "http://172.22.1.141:8089/",
+    "valid_credentials": {
+      "username": "mmayaleh",
+      "password": "Stopwatch12@@",
+     
+      "expected_result": "successful"
+    },
+   
+    "invalid_credentials": {
+      "username": "invalid_username",
+      "password": "invalid_password",
+      "expected_result": "failed"
+    },
+
+    "employee": {
+      "username": "test-employee4",
+      "password": "45622"
+    
+  },
+
+  "manager": {
+    "username": "test-supervisor3",
+    "password": "45622"
+
+ 
+}
+
+
+}

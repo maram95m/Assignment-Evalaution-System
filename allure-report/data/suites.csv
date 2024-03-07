@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Feb 05 11:56:29 EET 2024","Mon Feb 05 11:56:29 EET 2024","0","tests","login_page_test","","","","test_failed_login",""
+"broken","Mon Feb 05 11:56:29 EET 2024","Mon Feb 05 11:56:29 EET 2024","0","tests","test_login","TestLogin","","","test_login",""
+"broken","Mon Feb 05 11:56:29 EET 2024","Mon Feb 05 11:56:29 EET 2024","0","tests","login_page_test","","","","test_successful_login",""

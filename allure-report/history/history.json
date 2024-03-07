@@ -1,0 +1,62 @@
+{
+  "f3dea29140dd125043349c9f326e5a66" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "623be14920570ad4",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('self', <FixtureRequest for <Function test_failed_login>>)",
+      "time" : {
+        "start" : 1707126989361,
+        "stop" : 1707126989361,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3ba28a2958fc130e694bfd1d395b0a02" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c9f725b38c16194e",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('self', <FixtureRequest for <Function test_successful_login>>)",
+      "time" : {
+        "start" : 1707126989361,
+        "stop" : 1707126989361,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2116f0ad00ab1de0effc54f114dd9496" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f7a5685449b6cc23",
+      "status" : "broken",
+      "statusDetails" : "TypeError: TestLogin.test_login() missing 1 required positional argument: 'driver'",
+      "time" : {
+        "start" : 1707126989373,
+        "stop" : 1707126989373,
+        "duration" : 0
+      }
+    } ]
+  }
+}

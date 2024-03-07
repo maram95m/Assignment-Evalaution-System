@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SD-LP-W11-MMAYA",
+    "children" : [ {
+      "name" : "12300-MainThread",
+      "children" : [ {
+        "name" : "test_successful_login",
+        "uid" : "c9f725b38c16194e",
+        "parentUid" : "eca864908908eefbd6b4295daa777e70",
+        "status" : "broken",
+        "time" : {
+          "start" : 1707126989361,
+          "stop" : 1707126989361,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_failed_login",
+        "uid" : "623be14920570ad4",
+        "parentUid" : "eca864908908eefbd6b4295daa777e70",
+        "status" : "broken",
+        "time" : {
+          "start" : 1707126989361,
+          "stop" : 1707126989361,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login",
+        "uid" : "f7a5685449b6cc23",
+        "parentUid" : "eca864908908eefbd6b4295daa777e70",
+        "status" : "broken",
+        "time" : {
+          "start" : 1707126989373,
+          "stop" : 1707126989373,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eca864908908eefbd6b4295daa777e70"
+    } ],
+    "uid" : "1acc6c0c720035f64df533aae9debfc4"
+  } ]
+}
